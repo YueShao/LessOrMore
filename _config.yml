@@ -8,8 +8,8 @@ github: https://github.com/YueShao/
 baseurl: ""
 description: 我很爱学习哒，不信，你看我的鼻子都变长啦～
 meta_description: 邵胖胖;个人博客;生而为吃
-motto: It's our wits that make us men.
-banner: 学而不思则罔，思而不学则殆。
+motto: 我很爱学习哒，不信，你看我的鼻子都变长啦～
+banner: 我很爱学习哒，不信，你看我的鼻子都变长啦～
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
